@@ -1,0 +1,16 @@
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\bin\Debug\net8.0-windows\NET_LAB5W.exe
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\bin\Debug\net8.0-windows\NET_LAB5W.deps.json
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\bin\Debug\net8.0-windows\NET_LAB5W.runtimeconfig.json
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\bin\Debug\net8.0-windows\NET_LAB5W.dll
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\bin\Debug\net8.0-windows\NET_LAB5W.pdb
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.Form1.resources
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.AssemblyInfo.cs
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.dll
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\refint\NET_LAB5W.dll
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.pdb
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\NET_LAB5W.genruntimeconfig.cache
+C:\Users\ПК\source\repos\NET_LAB5W\NET_LAB5W\obj\Debug\net8.0-windows\ref\NET_LAB5W.dll

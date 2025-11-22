@@ -1,0 +1,8 @@
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\obj\Debug\NET_LAB5.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\obj\Debug\NET_LAB5.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\bin\Debug\NET_LAB5.exe.config
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\bin\Debug\NET_LAB5.exe
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\bin\Debug\NET_LAB5.pdb
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\obj\Debug\NET_LAB5.exe
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\obj\Debug\NET_LAB5.pdb
+C:\Users\ПК\source\repos\NET_LAB5\NET_LAB5\obj\Debug\NET_LAB5.exe.config
