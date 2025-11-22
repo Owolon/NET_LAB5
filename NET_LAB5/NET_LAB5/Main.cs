@@ -15,7 +15,7 @@ namespace NET_LAB5
                 Console.WriteLine("\nВыберите задание:");
                 Console.WriteLine("1 – Тип предложения");
                 Console.WriteLine("2 – Слова максимальной длины");
-                Console.WriteLine("3 – Проверка одинаковых буквы");
+                Console.WriteLine("3 – Проверка одинаковых букв");
                 Console.WriteLine("0 – Выход");
                 Console.Write("Ваш выбор: ");
 
@@ -69,7 +69,7 @@ namespace NET_LAB5
         }
         static void Task_TWO()
         {
-            Console.WriteLine("Введите строку (2–50 слов, латиница, последнее слово с точкой):");
+            Console.WriteLine("Введите строку (2–50 слов, последнее слово с точкой):");
             string input = Console.ReadLine().Trim();
 
             if (input.Length == 0 || input[input.Length - 1] != '.')
